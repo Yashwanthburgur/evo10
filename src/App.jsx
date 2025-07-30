@@ -3,7 +3,7 @@ import React from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './pages/home';
+import Home from './pages/Home';
 import Explore from './pages/Explore';
 import OrganizerProfile from './pages/OrganizerProfile';
 import Booking from './pages/Booking';
