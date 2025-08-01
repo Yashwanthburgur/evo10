@@ -1,12 +1,23 @@
-# React + Vite
+# 🎉 Evently — MVP for Local Event Booking in Bangalore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight MVP built in a few hours for a friend’s idea — a simple platform where users can explore and book small-to-medium scale events (parties, birthdays, gigs) around Bangalore.
 
-Currently, two official plugins are available:
+This is not a full product, just a functional front-end that demonstrates how the idea could work — clean UI, quick navigation, and ready to build on top of.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React + Vite — super quick setup with blazing fast refresh
+- 🎨 Tailwind CSS — for rapid, responsive, and clean UI styling
+- 🧭 React Router DOM — basic but smooth page navigation
+- 🔔 Lucide Icons — modern icons with a minimal vibe
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Preview
+
+- 🌐 [Live App](https://evo10.vercel.app/)
+
+## ✨ Features
+
+- Browse categories like Birthday, Music, Wedding, and Cultural events
+- Scrollable UI with hover effects and responsive layout
+- Lightweight and extendable front-end built for demo and iteration
+- Designed for solo devs, startup MVPs, or freelance gigs
