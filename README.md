@@ -1,4 +1,4 @@
-# 🎉 Evently — MVP for Local Event Booking in Bangalore
+# 🎉 Evently — MVP for Local Event Booking in Bangalore // AKA evo10
 
 A lightweight MVP built in a few hours for a friend’s idea — a simple platform where users can explore and book small-to-medium scale events (parties, birthdays, gigs) around Bangalore.
 
